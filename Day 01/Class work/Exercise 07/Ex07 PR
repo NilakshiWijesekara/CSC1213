@@ -1,0 +1,25 @@
+Date : 2025/03/12
+Practical Number : 07
+Problem specification : Using logical operators 
+Implementation :
+class Ex07
+{
+	public static void main(String args[])
+	{
+		int x=10;
+		int y=5;
+		
+		System.out.println("Addition is : "+(x+y));
+		System.out.println("Substraction is : "+(x-y));
+		System.out.println("Multiplication is : "+(x*y));
+		System.out.println("Division is : "+(x/y));
+		System.out.println("Modulus is : "+(x%y));
+	}
+}
+Output : 
+Addition is : 15
+Substraction is : 5
+Multiplication is : 50
+Division is : 2
+Modulus is : 0
+Conclusion : Learn how to use logical operators
