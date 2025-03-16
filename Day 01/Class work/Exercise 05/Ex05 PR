@@ -1,0 +1,16 @@
+Date : 2025/03/12
+Practical Number : 05
+Problem specification : Takes outputs line by line
+Implementation :
+class StudentDetails
+{
+	public static void main(String args[])
+	{
+		System.out.println("First Name : Nilakshi \nLast Name : Wijesekara \nAddress : 57/M/94,Donald waththa,Nalla,Divuldeniya");
+	}
+}
+Output :
+First Name : Nilakshi
+Last Name : Wijesekara
+Address : 57/M/94,Donald waththa,Nalla,Divuldeniya
+Conclusion : Learn how to get outputs line by line
