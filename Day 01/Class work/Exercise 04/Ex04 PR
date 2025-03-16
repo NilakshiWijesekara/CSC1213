@@ -1,0 +1,31 @@
+Date : 2025/03/12
+Practical Number : 04
+Problem specification : Storing data and give output 
+Implementation :
+class StuDetails
+{
+	public static void main(String args[])
+	{
+		System.out.println("Name: Nilakshi Wijesekara");
+	    System.out.println("Registration Number: 2022/ASP/70");
+		System.out.println("Degree Programme: Bsc.ComputerScience");
+		System.out.println();
+		
+		String Name="Nilakshi Wijesekara";
+		String RegNo="2022/ASP/70";
+		String Degree="Bsc.ComputerScience";
+		
+		System.out.println("Full Name: "+Name);
+		System.out.println("Registration Number: "+RegNo);
+		System.out.println("Degree Programme: "+Degree);
+	}
+}
+Output :
+Name: Nilakshi Wijesekara
+Registration Number: 2022/ASP/70
+Degree Programme: Bsc.ComputerScience
+
+Full Name: Nilakshi Wijesekara
+Registration Number: 2022/ASP/70
+Degree Programme: Bsc.ComputerScience
+Conclusion : How to learn storing data and get output 
